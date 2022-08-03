@@ -1,9 +1,9 @@
 **サンプルです**
 
 - Pay.jp
-pay.js v2
-クレカ決済
+	- pay.js v2
+		- クレカ決済(クレカ登録まで)
 
 - Komoju
-Komoju MultiPay
-コンビニ決済
+	- MultiPay
+		- コンビニ決済(レシート発行まで)
